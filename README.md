@@ -20,7 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 .
 See [Weather App site](https://weather-vueapp.surge.sh/).
