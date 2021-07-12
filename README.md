@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-.
+
 See [Weather App site](https://weather-vueapp.surge.sh/).
